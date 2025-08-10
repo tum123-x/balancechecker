@@ -1,6 +1,6 @@
 import { Connection, PublicKey, LAMPORTS_PER_SOL } from '@solana/web3.js'
 
-const HELIUS_RPC_URL = 'https://mainnet.helius-rpc.com/?api-key=3212d845-480e-4b86-af4f-c8150ebb819a'
+const HELIUS_RPC_URL = 'https://mainnet.helius-rpc.com/?api-key=d7368ad7-9bc4-4566-86f4-d24733e6d72b'
 
 export const connection = new Connection(HELIUS_RPC_URL, 'confirmed')
 
